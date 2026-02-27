@@ -35,7 +35,7 @@ US work authorized (OPT). Open to full-time Software Engineer, Full Stack, and A
 | [MedVault AI](https://github.com/karthiksai109/medvault-ai) | Privacy-first clinical intelligence agent with zero data retention. | Venice AI, Akash Network |
 | [StudentNest](https://github.com/karthiksai109/StudentNest) | Mobile app for international students. Housing, discounts, community posts. | React Native, Expo, Firebase |
 | [NestMind](https://github.com/karthiksai109/nestmind) | 4 specialized AI agents for student life (housing, budget, career, campus). | Next.js, AWS Bedrock, TypeScript |
-| [RAG Q&A System](https://rag-qa-system-karthiksai109.streamlit.app) | Upload docs, ask questions, get cited answers. No LangChain. | Python, OpenAI, FAISS, Streamlit |
+| [RAG Q&A System](https://github.com/karthiksai109/rag-qa-system) | Upload docs, ask questions, get cited answers. No LangChain. | Python, OpenAI, FAISS, Streamlit |
 | [IndiaMart](https://github.com/karthiksai109/Indiamart_Frontend) | Budget-driven e-commerce platform for international students. | React, Node.js, Express, MongoDB |
 
 ## Links
