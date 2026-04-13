@@ -1,30 +1,31 @@
 # Hi, I'm Karthik Ramadugu 👋
 
-Software Engineer with an MS in Computer Science from the University of Dayton. I build full-stack web apps and AI-powered tools with React, Node.js, Python, and AWS.
+**Sr. Python Full Stack Developer** at Epsilon, Dallas, TX. 5+ years of experience building production-grade Python applications, microservices, AI-powered analytics platforms, and cloud-native systems.
 
-🏆 **Akash Open Agents Hackathon 2026 Winner** — Built HealthGuard, a decentralized private AI health agent.
+� **MS in Computer Science** — University of Dayton (Dec 2025)
 
-Currently focused on building AI agents, RAG systems, analytics dashboards, and shipping real products. US work authorized (OPT). Open to full-time Software Engineer, Full Stack, and AI/ML Engineering roles.
+Currently designing enterprise-scale microservices with Django REST, FastAPI, Flask, React, and Kubernetes. Building AI/LLM analytics with AWS Bedrock & OpenAI. US work authorized.
 
 ---
 
-## 🔭 What I'm working on
+## 💼 Professional Experience
 
-- **AI Agents & RAG** — Multi-agent systems with AWS Bedrock, OpenAI, and Venice AI; custom RAG pipelines with FAISS (no LangChain)
-- **Analytics Platforms** — Real-time dashboards with role-based access, JWT auth, and interactive data visualizations
-- **Full-Stack Apps** — Production apps with Next.js, TypeScript, serverless backends, and CI/CD
-- **Mobile Development** — Cross-platform apps with React Native and Expo
+- **Sr. Python Full Stack Developer @ Epsilon** (Jun 2025 – Present) — Microservices with Django, FastAPI, Flask, React, Kubernetes. AI analytics with AWS Bedrock & OpenAI.
+- **Python Full Stack Developer @ Innova Solutions (Client: Epsilon)** (Dec 2023 – May 2025) — AI-powered platforms with Next.js 14, React 18, TypeScript, AWS Bedrock. Multi-agent architectures.
+- **Python Developer @ FunctionUp** (Jan 2022 – Nov 2023) — React 18 full-stack app with Vite, Flask REST APIs, MongoDB.
+- **Python Developer @ Publicis Groupe** (Jan 2021 – Dec 2021) — E-commerce analytics dashboard with Next.js 12, TypeScript, Recharts, TailwindCSS.
 
 ## 🛠 Tech Stack
 
 | Category | Technologies |
 |----------|-------------|
-| **Languages** | JavaScript, TypeScript, Python, SQL |
-| **Frontend** | React, Next.js 14, React Native, TailwindCSS, Material UI, Framer Motion |
-| **Backend** | Node.js, Express.js, REST APIs, Serverless Functions, JWT Auth |
-| **AI/ML** | OpenAI API, AWS Bedrock (Claude 3), FAISS, RAG, PyTorch, Prompt Engineering |
-| **Databases** | MongoDB, Firebase Firestore, PostgreSQL, FAISS (vector) |
-| **Cloud & DevOps** | AWS (S3, EC2, Bedrock), Vercel, Netlify, Docker, Datadog, Git, GitHub Actions |
+| **Languages** | Python, JavaScript, TypeScript, SQL |
+| **Backend** | Django, FastAPI, Flask, REST APIs, Celery, Kafka, RabbitMQ |
+| **Frontend** | React, Next.js 14, TailwindCSS, Material UI, Recharts, Framer Motion |
+| **AI/ML** | AWS Bedrock (Claude 3), OpenAI APIs, RAG Pipelines, FAISS, Prompt Engineering, Multi-Agent Architectures |
+| **Databases** | PostgreSQL, MongoDB, Elasticsearch, Redis, DynamoDB |
+| **Cloud & DevOps** | AWS (EC2, S3, Lambda, EKS, RDS), Azure, Docker, Kubernetes, Terraform, GitHub Actions, Jenkins |
+| **Monitoring** | Grafana, Datadog APM, ELK Stack, Kibana, SonarQube, Veracode |
 
 ## 🚀 Featured Projects
 
@@ -32,11 +33,11 @@ Currently focused on building AI agents, RAG systems, analytics dashboards, and 
 |---------|-------------|------|
 | [HealthGuard](https://github.com/karthiksai109/healthguard) | 🏆 Decentralized private AI health agent. Won Akash Open Agents Hackathon 2026. | Venice AI, Akash Network, Zero-Knowledge |
 | [DataPulse Analytics](https://github.com/karthiksai109/datapulse-analytics) | Real-time analytics dashboard with JWT auth, RBAC, and interactive charts. | React, Material UI, Node.js, Vercel Serverless |
-| [MedVault AI](https://github.com/karthiksai109/medvault-ai) | Privacy-first clinical intelligence agent with zero data retention. | Venice AI, Akash Network |
 | [NestMind](https://github.com/karthiksai109/nestmind) | 4 specialized AI agents for student life (housing, budget, career, campus). | Next.js, AWS Bedrock, TypeScript |
-| [StudentNest](https://github.com/karthiksai109/StudentNest) | Mobile app for international students. Housing, discounts, community posts. | React Native, Expo, Firebase |
+| [CareAgent OS](https://github.com/karthiksai109/careagent-os) | Multi-agent healthcare platform. | AI Agents, Python |
+| [StoryForge AI](https://github.com/karthiksai109/storyforge-ai) | AI-powered story generation platform. | Python, OpenAI |
 | [RAG Q&A](https://rag-app-system-fcfbmqzjrgjwdpezdzghqp.streamlit.app) | Upload docs, ask questions, get cited answers. No LangChain. | Python, OpenAI, FAISS, Streamlit |
-| [IndiaMart](https://github.com/karthiksai109/Indiamart_Frontend) | Budget-driven e-commerce platform for international students. | React, Node.js, Express, MongoDB |
+| [StudentNest](https://github.com/karthiksai109/StudentNest) | Mobile app for international students. Housing, discounts, community posts. | React Native, Expo, Firebase |
 
 ## 📊 GitHub Stats
 
@@ -49,4 +50,4 @@ Currently focused on building AI agents, RAG systems, analytics dashboards, and 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://karthikramadugu.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramadugukarthik)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karthiksaidham2001@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karthikpyfsd@gmail.com)
