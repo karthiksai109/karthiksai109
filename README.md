@@ -1,31 +1,30 @@
 # Hi, I'm Karthik Ramadugu 👋
 
-**Sr. Python Full Stack Developer** at Epsilon, Dallas, TX. 5+ years of experience building production-grade Python applications, microservices, AI-powered analytics platforms, and cloud-native systems.
+**UI Full Stack Developer** at Epsilon, Dallas, TX. 5+ years of experience building scalable UI full-stack applications, enterprise web platforms, REST APIs, microservices, and cloud-native systems.
 
-� **MS in Computer Science** — University of Dayton (Dec 2025)
+🎓 **MS in Computer Science** — University of Dayton (Dec 2025)
 
-Currently designing enterprise-scale microservices with Django REST, FastAPI, Flask, React, and Kubernetes. Building AI/LLM analytics with AWS Bedrock & OpenAI. US work authorized.
+Currently building enterprise-scale applications with React, TypeScript, Python, FastAPI, Flask, Django, Docker, Kubernetes, and AWS. US work authorized.
 
 ---
 
 ## 💼 Professional Experience
 
-- **Sr. Python Full Stack Developer @ Epsilon** (Jun 2025 – Present) — Microservices with Django, FastAPI, Flask, React, Kubernetes. AI analytics with AWS Bedrock & OpenAI.
-- **Python Full Stack Developer @ Innova Solutions (Client: Epsilon)** (Dec 2023 – May 2025) — AI-powered platforms with Next.js 14, React 18, TypeScript, AWS Bedrock. Multi-agent architectures.
-- **Python Developer @ FunctionUp** (Jan 2022 – Nov 2023) — React 18 full-stack app with Vite, Flask REST APIs, MongoDB.
-- **Python Developer @ Publicis Groupe** (Jan 2021 – Dec 2021) — E-commerce analytics dashboard with Next.js 12, TypeScript, Recharts, TailwindCSS.
+- **UI Full Stack Developer @ Epsilon** (Jun 2025 – Present) — Scalable UI full-stack apps with React, TypeScript, Python, REST APIs, microservices, Docker, Kubernetes, AWS.
+- **Full Stack Developer @ Verizon** (Sep 2024 – Jun 2025) — Full-stack modules with React, TypeScript, Python, Node.js, REST APIs. AWS deployments & CI/CD.
+- **Python Developer @ FunctionUp** (Jan 2022 – Nov 2023) — Full-stack apps with React, Python, Flask, REST APIs, MongoDB.
+- **Software Developer @ Publicis Groupe** (Jan 2021 – Dec 2021) — Analytics dashboards with React, Next.js, TypeScript, Recharts, TailwindCSS.
 
 ## 🛠 Tech Stack
 
 | Category | Technologies |
 |----------|-------------|
-| **Languages** | Python, JavaScript, TypeScript, SQL |
-| **Backend** | Django, FastAPI, Flask, REST APIs, Celery, Kafka, RabbitMQ |
-| **Frontend** | React, Next.js 14, TailwindCSS, Material UI, Recharts, Framer Motion |
-| **AI/ML** | AWS Bedrock (Claude 3), OpenAI APIs, RAG Pipelines, FAISS, Prompt Engineering, Multi-Agent Architectures |
-| **Databases** | PostgreSQL, MongoDB, Elasticsearch, Redis, DynamoDB |
-| **Cloud & DevOps** | AWS (EC2, S3, Lambda, EKS, RDS), Azure, Docker, Kubernetes, Terraform, GitHub Actions, Jenkins |
-| **Monitoring** | Grafana, Datadog APM, ELK Stack, Kibana, SonarQube, Veracode |
+| **Languages** | JavaScript, TypeScript, Python, HTML5, CSS3, SQL |
+| **Frontend** | React, Redux, Hooks, Material UI, Next.js, TailwindCSS, Recharts, Framer Motion, Responsive Design |
+| **Backend** | Python, FastAPI, Flask, Django, Node.js, REST APIs, Kafka, RabbitMQ, Redis |
+| **Databases** | PostgreSQL, MySQL, MongoDB, Elasticsearch, Redis |
+| **Cloud & DevOps** | AWS (EC2, S3, Lambda, EKS, RDS, IAM, Route 53), Docker, Kubernetes, GitHub Actions, Jenkins, CI/CD |
+| **Monitoring & Quality** | Grafana, Datadog, ELK Stack, SonarQube, Veracode |
 
 ## 🚀 Featured Projects
 
